@@ -1,11 +1,7 @@
-# YOLO-NAS + SAM object segmentation Application
+# YOLO-NAS + Meta segment anything(SAM) object segmentation Application
 ### About 
 
-# combine YOLO-NAS and SAM for object segmentation
-# The YOLO-NAS model is used for the object detection. 
-# The bounding box obtained from the object detection model 
-# is passed as a prompt to the SAM model with the returns a 
-# segmentation masks of the specfied filter class. 
+combine YOLO-NAS and SAM for object segmentation.The YOLO-NAS model is used for the object detection. The bounding box obtained from the object detection model is passed as a prompt to the SAM model with the returns a segmentation masks of the specfied filter class. 
  
 # install the requirements
 ```
