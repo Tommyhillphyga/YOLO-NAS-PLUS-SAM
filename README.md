@@ -2,9 +2,7 @@
 ### About 
 
 combine YOLO-NAS and SAM for object segmentation.The YOLO-NAS model is used for the object detection. The bounding box obtained from the object detection model is passed as a prompt to the SAM model with the returns a segmentation masks of the specfied filter class. 
-file:///home/tomiwa/Downloads/yolonas%20+%20sam%20.mp4
 
- 
 ### install the requirements
 ```
 pip install -r requirements.txt
