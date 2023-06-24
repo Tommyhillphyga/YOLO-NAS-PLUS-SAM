@@ -1,0 +1,6 @@
+matplotlib==3.7.1
+opencv_python==4.7.0.68
+segment_anything==1.0
+super_gradients==3.1.2
+supervision==0.10.0
+torch==1.13.1
